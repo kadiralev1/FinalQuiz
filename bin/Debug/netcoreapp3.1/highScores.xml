@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfHighScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HighScore>
+    <ID>0</ID>
+    <Name>Player</Name>
+    <Scores>1234</Scores>
+    <GameMode>Normal</GameMode>
+    <Date>2020-01-15T00:00:00+00:00</Date>
+  </HighScore>
+</ArrayOfHighScore>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{306A797D-F287-4285-BB32-04A36C1F38D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Question.cs">
+    <Files>
+      <File FileName="mainMenu.cs" Line="101" Column="22" />
+      <File FileName="GameManager.cs" />
+      <File FileName="Question.cs" Line="31" Column="30" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuizGame" expanded="True">
+            <Node name="QuizGame" expanded="True">
+              <Node name="Question.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.QuizGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

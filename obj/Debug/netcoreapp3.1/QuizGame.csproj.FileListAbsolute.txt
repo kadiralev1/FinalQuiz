@@ -1,0 +1,132 @@
+D:/Programowanie/C#/QuizGame/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.exe
+D:/Programowanie/C#/QuizGame/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+D:/Programowanie/C#/QuizGame/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+D:/Programowanie/C#/QuizGame/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+D:/Programowanie/C#/QuizGame/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.dll
+D:/Programowanie/C#/QuizGame/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.pdb
+D:/Programowanie/C#/QuizGame/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+D:/Programowanie/C#/QuizGame/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+D:/Programowanie/C#/QuizGame/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+D:/Programowanie/C#/QuizGame/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.dll
+D:/Programowanie/C#/QuizGame/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.pdb
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.exe
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.dll
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.pdb
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.dll
+D:/Programowanie/C#/QuizGame — kopia/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.pdb
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.dll
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.pdb
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.exe
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.dll
+D:/Programowanie/C#/QuizGame — kopia — kopia/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.pdb
+D:/Programowanie/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.exe
+D:/Programowanie/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+D:/Programowanie/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+D:/Programowanie/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+D:/Programowanie/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.dll
+D:/Programowanie/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.pdb
+D:/Programowanie/C#/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+D:/Programowanie/C#/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+D:/Programowanie/C#/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+D:/Programowanie/C#/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.dll
+D:/Programowanie/C#/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.pdb
+E:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.exe
+E:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+E:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+E:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+E:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.dll
+E:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.pdb
+E:/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+E:/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+E:/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+E:/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.dll
+E:/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.pdb
+D:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.exe
+D:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+D:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+D:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+D:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.dll
+D:/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.pdb
+D:/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+D:/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+D:/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+D:/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.dll
+D:/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.pdb
+C:/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.exe
+C:/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+C:/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+C:/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+C:/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.dll
+C:/C#/QuizGame - final/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.pdb
+C:/C#/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+C:/C#/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+C:/C#/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+C:/C#/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.dll
+C:/C#/QuizGame - final/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.pdb
+C:/C#/QuizGame 11.05.2020/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.exe
+C:/C#/QuizGame 11.05.2020/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+C:/C#/QuizGame 11.05.2020/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+C:/C#/QuizGame 11.05.2020/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+C:/C#/QuizGame 11.05.2020/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.dll
+C:/C#/QuizGame 11.05.2020/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.pdb
+C:/C#/QuizGame 11.05.2020/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+C:/C#/QuizGame 11.05.2020/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+C:/C#/QuizGame 11.05.2020/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+C:/C#/QuizGame 11.05.2020/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.dll
+C:/C#/QuizGame 11.05.2020/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.pdb
+/Users/kadirkutluhanalev/Downloads/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+/Users/kadirkutluhanalev/Downloads/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+/Users/kadirkutluhanalev/Downloads/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+/Users/kadirkutluhanalev/Downloads/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.dll
+/Users/kadirkutluhanalev/Downloads/QuizGame/obj/Debug/netcoreapp3.1/QuizGame.pdb
+/Users/kadirkutluhanalev/Downloads/QuizGame/bin/Debug/netcoreapp3.1/QuizGame
+/Users/kadirkutluhanalev/Downloads/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+/Users/kadirkutluhanalev/Downloads/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+/Users/kadirkutluhanalev/Downloads/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+/Users/kadirkutluhanalev/Downloads/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.dll
+/Users/kadirkutluhanalev/Downloads/QuizGame/bin/Debug/netcoreapp3.1/QuizGame.pdb
+C:/C#/QuizGame-master/bin/Debug/netcoreapp3.1/QuizGame.exe
+C:/C#/QuizGame-master/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+C:/C#/QuizGame-master/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+C:/C#/QuizGame-master/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+C:/C#/QuizGame-master/bin/Debug/netcoreapp3.1/QuizGame.dll
+C:/C#/QuizGame-master/bin/Debug/netcoreapp3.1/QuizGame.pdb
+C:/C#/QuizGame-master/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+C:/C#/QuizGame-master/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+C:/C#/QuizGame-master/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+C:/C#/QuizGame-master/obj/Debug/netcoreapp3.1/QuizGame.dll
+C:/C#/QuizGame-master/obj/Debug/netcoreapp3.1/QuizGame.pdb
+C:/C#/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.exe
+C:/C#/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+C:/C#/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+C:/C#/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+C:/C#/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.dll
+C:/C#/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.pdb
+C:/C#/FinalQuiz-master2/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+C:/C#/FinalQuiz-master2/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+C:/C#/FinalQuiz-master2/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+C:/C#/FinalQuiz-master2/obj/Debug/netcoreapp3.1/QuizGame.dll
+C:/C#/FinalQuiz-master2/obj/Debug/netcoreapp3.1/QuizGame.pdb
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.deps.json
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.json
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.runtimeconfig.dev.json
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.dll
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/bin/Debug/netcoreapp3.1/QuizGame.pdb
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/obj/Debug/netcoreapp3.1/QuizGame.csprojAssemblyReference.cache
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfoInputs.cache
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/obj/Debug/netcoreapp3.1/QuizGame.AssemblyInfo.cs
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/obj/Debug/netcoreapp3.1/QuizGame.dll
+/Users/kadirkutluhanalev/Downloads/FinalQuiz-master2/obj/Debug/netcoreapp3.1/QuizGame.pdb
